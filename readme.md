@@ -1,6 +1,2 @@
-identidock
-==========
-
-Simple identicon server based on mosterid
-
-From the book "Using Docker"
+# Using Docker Code Examples
+## "Continuous Integration and Testing with Docker"
